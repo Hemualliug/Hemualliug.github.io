@@ -1,24 +1,23 @@
 
 body {
-    background-color: bisque;
+    background-color: white;
 }
 
 header {
     font-size: 50px;
     font-weight: bold;
-    color: white;
 }
 
 #monCV {
     background-color: lightskyblue;
     border: solid 5px black;
     padding: 20px;
-    border-radius: 20px;
+    border-radius: 5px;
 }
 
 .bloc {
     background-color: azure;
     border: solid 3px black;
-    border-radius: 20px;
+    border-radius: 5px;
     padding: 5px;
 }
